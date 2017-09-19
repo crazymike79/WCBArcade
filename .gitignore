@@ -2,3 +2,4 @@
 !/[Bb]uild/
 !/[Bb]uilds/
 !*.png
+!*.md
