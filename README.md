@@ -1,9 +1,6 @@
-####################WORLD CHAMPIONSHIP BITCOIN ARCADE######################
+###WORLD CHAMPIONSHIP BITCOIN ARCADE###
 
-This is a repo for my friend to track progress on World Championship Bitcoin Arcade, for iOS.
+This is a repo for my friend to track progress on World Championship Bitcoin Arcade for iOS, Android and webGL for starters.  Looking into ever format Unity can compile.  Priority goes to these three.
 
-There are current snapshots of my scenes in Unity located in the root dir.
-The root directory is a unity project, load 'er up and check it out.
-C# script is in /script and my custom graphix are in /graphics.
+https://onename.com/SteakMon5K
 
---crazymike79
